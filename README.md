@@ -1,4 +1,9 @@
 scraper-tester
 ==============
-'''npm install
-'''grunt
+## Usage
+
+Run the grunt task, that's it!
+```
+grunt
+```
+
